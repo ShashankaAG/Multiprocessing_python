@@ -1,2 +1,2 @@
 # Multiprocessing_python
-CPU and GPU based parallel processing in python.
+CPU parallel programming for kepler orbit propogator in python.
